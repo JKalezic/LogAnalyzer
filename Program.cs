@@ -1,4 +1,5 @@
 ﻿string logFilePath = "sample.log";
+
 try
 {
     SampleLogGenerator.Generate(logFilePath, 1200);
